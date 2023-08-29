@@ -1,0 +1,41 @@
+[
+    {
+    "status": "200",
+    "profilepicutre": "/profile/img/def.png",
+    "displayname": "DisplaynameUser",
+    "aboutme":"Im a cool user"
+    },
+    {
+    "title": "Group1:",
+    "links": [
+    {
+    "icon": "",
+    "title": "test1",
+    "link": "test"
+    },
+    {
+    "icon": "",
+    "title": "test 2 sho",
+    "link": "http://ddg.gg"
+    }
+    
+    ]
+    },
+    {
+        "title": "Linkgroup2",
+        "links": [
+        {
+        "icon": "",
+        "title": "test 1 looong",
+        "link": "test1"
+        },
+        {
+        "icon": "",
+        "title": "test 2",
+        "link": "test2"
+        }
+        
+        ]
+    }
+    
+    ]
